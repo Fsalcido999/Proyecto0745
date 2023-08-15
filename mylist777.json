@@ -1,0 +1,303 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="4552" name="ActionMax" group="USA ➾ Movie" logo="http://s3.i3ns.net/portal/picon/2021-06/d8eb5f96e6d74065d1d5d3d1371e43fd.png", ActionMax
+http://iptvmedia.live:8080/F29062/7573b54a/2274
+#EXTINF:0 type="stream" channelId="4531" name="5 Star max" group="USA ➾ Movie" logo="http://s3.i3ns.net/portal/picon/2021-06/baf3134105f2ba7e681080651ebac729.png", 5 Star max
+http://iptvmedia.live:8080/F29062/7573b54a/2291
+#EXTINF:0 type="stream" channelId="3216" name="MoreMax" group="USA ➾ Movie" logo="http://s3.i3ns.net/portal/picon/2021-06/70c0db2dd46d60b48418ec3299d65ddd.png", MoreMax
+http://iptvmedia.live:8080/F29062/7573b54a/752
+#EXTINF:0 type="stream" channelId="4558" name="MovieMax" group="USA ➾ Movie" logo="http://s3.i3ns.net/portal/picon/2021-06/cb1fdc8f53f95cb4e59f2458bc311404.png", MovieMax
+http://iptvmedia.live:8080/F29062/7573b54a/15110
+#EXTINF:0 type="stream" channelId="2327" name="Showtime" group="USA ➾ Movie" logo="http://s3.i3ns.net/portal/picon/2021-07/bb167150b4e17479be89ab93490bd3f2.png", Showtime
+http://iptvmedia.live:8080/F29062/7573b54a/765
+#EXTINF:0 type="stream" channelId="3220" name="Showtime 2" group="USA ➾ Movie" logo="http://s3.i3ns.net/portal/picon/2021-07/7241d26952589668a7a2ea3017f3b4fa.png", Showtime 2
+http://iptvmedia.live:8080/F29062/7573b54a/78161
+#EXTINF:0 type="stream" channelId="3224" name="Showtime Next" group="USA ➾ Movie" logo="http://s3.i3ns.net/portal/picon/2021-07/2fa0301625b9f9cfacdd39e05b215e1d.png", Showtime Next
+http://iptvmedia.live:8080/F29062/7573b54a/13008
+#EXTINF:0 type="stream" channelId="-1" name="Showtime Showcase" group="USA ➾ Movie" logo="http://s3.i3ns.net/portal/picon/2021-07/6f3f5c8d05f9dadbdc79167f264fb8dd.png", Showtime Showcase
+http://iptvmedia.live:8080/F29062/7573b54a/6306
+#EXTINF:0 type="stream" channelId="3226" name="Starz" group="USA ➾ Movie" logo="http://s3.i3ns.net/portal/picon/2021-07/4bf8db70bda5c987a510f9e3666f3094.png", Starz
+http://iptvmedia.live:8080/F29062/7573b54a/12044
+#EXTINF:0 type="stream" channelId="4550" name="Starz Cinema" group="USA ➾ Movie" logo="http://s3.i3ns.net/portal/picon/2021-07/c4b96c7068312d06a011d2b3f3fd42c6.png", Starz Cinema
+http://iptvmedia.live:8080/F29062/7573b54a/767
+#EXTINF:0 type="stream" channelId="4551" name="Starz Comedy" group="USA ➾ Movie" logo="http://s3.i3ns.net/portal/picon/2021-07/5422f0653ef91c2b40f4c6e2e2fc211a.png", Starz Comedy
+http://iptvmedia.live:8080/F29062/7573b54a/12040
+#EXTINF:0 type="stream" channelId="-1" name="Starz East" group="USA ➾ Movie" logo="http://s3.i3ns.net/portal/picon/2021-07/5a26b5b34b44800918a9340077f64c4c.png", Starz East
+http://iptvmedia.live:8080/F29062/7573b54a/6302
+#EXTINF:0 type="stream" channelId="3227" name="Starz Encore" group="USA ➾ Movie" logo="http://s3.i3ns.net/portal/picon/2021-07/3f89eb81c622b3c67bb0a1d22ad57f9e.png", Starz Encore
+http://iptvmedia.live:8080/F29062/7573b54a/38500
+#EXTINF:0 type="stream" channelId="-1" name="Starz Encore Action" group="USA ➾ Movie" logo="http://s3.i3ns.net/portal/picon/2021-07/f222f053df5e604b3279b4af49b7cdb8.png", Starz Encore Action
+http://iptvmedia.live:8080/F29062/7573b54a/30773
+#EXTINF:0 type="stream" channelId="-1" name="Starz Encore Black" group="USA ➾ Movie" logo="http://s3.i3ns.net/portal/picon/2021-12/0d7a5651fb932666fbda235bcd4c170a.png", Starz Encore Black
+http://iptvmedia.live:8080/F29062/7573b54a/47925
+#EXTINF:0 type="stream" channelId="-1" name="Starz Encore Suspense" group="USA ➾ Movie" logo="http://s3.i3ns.net/portal/picon/2021-12/7a8169950956b2a6700f5242f65221ae.png", Starz Encore Suspense
+http://iptvmedia.live:8080/F29062/7573b54a/38501
+#EXTINF:0 type="stream" channelId="4548" name="Starz In Black" group="USA ➾ Movie" logo="http://s3.i3ns.net/portal/picon/2022-04/f9f075c5da147ffa228619f569ed00d3.png", Starz In Black
+http://iptvmedia.live:8080/F29062/7573b54a/15056
+#EXTINF:0 type="stream" channelId="-1" name="Starzplay 13" group="USA ➾ Movie" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", Starzplay 13
+http://iptvmedia.live:8080/F29062/7573b54a/297620
+#EXTINF:0 type="stream" channelId="-1" name="Starzplay 14" group="USA ➾ Movie" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", Starzplay 14
+http://iptvmedia.live:8080/F29062/7573b54a/297621
+#EXTINF:0 type="stream" channelId="-1" name="Starzplay 17" group="USA ➾ Movie" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", Starzplay 17
+http://iptvmedia.live:8080/F29062/7573b54a/297624
+#EXTINF:0 type="favorites" channelId="-1" name="DirecTV Sports plus" group="Deportes" logo="http://s3.i3ns.net/portal/picon/2023-05/91b4bfe0f3db3d3b452b846b242242c1.png", DirecTV Sports plus
+http://iptvmedia.live:8080/F29062/7573b54a/298697
+#EXTINF:0 type="favorites" channelId="2540" name="ESPN" group="Deportes" logo="http://s3.i3ns.net/portal/picon/2021-09/cc414b3ef4f65c8c4e1bacf8fb9e0278.png", ESPN
+http://iptvmedia.live:8080/F29062/7573b54a/5779
+#EXTINF:0 type="favorites" channelId="344" name="ESPN 2" group="Deportes" logo="http://s3.i3ns.net/portal/picon/2021-09/cc3120d8b6dd47f682035e748793b59f.png", ESPN 2
+http://iptvmedia.live:8080/F29062/7573b54a/3031
+#EXTINF:0 type="favorites" channelId="355" name="ESPN 3" group="Deportes" logo="http://s3.i3ns.net/portal/picon/2023-04/3d85d5481dc8eb5bf70bd0d82e5f6e44.png", ESPN 3
+http://iptvmedia.live:8080/F29062/7573b54a/3032
+#EXTINF:0 type="favorites" channelId="1432" name="ESPN 4" group="Deportes" logo="http://s3.i3ns.net/portal/picon/2022-03/94c0ada67643d32a6df44618486e5e89.jpg", ESPN 4
+http://iptvmedia.live:8080/F29062/7573b54a/295304
+#EXTINF:0 type="favorites" channelId="3748" name="ESPN Deportes" group="Deportes" logo="http://s3.i3ns.net/portal/picon/2021-06/539a05a3d37b2362763c4779fd461efc.png", ESPN Deportes
+http://iptvmedia.live:8080/F29062/7573b54a/6446
+#EXTINF:0 type="favorites" channelId="4657" name="ESPN Extra" group="Deportes" logo="http://s3.i3ns.net/portal/picon/2021-11/55f937782e1eff60fd0d2ed936aa5ce7.png", ESPN Extra
+http://iptvmedia.live:8080/F29062/7573b54a/285105
+#EXTINF:0 type="favorites" channelId="1329" name="FOX Sports 1" group="Deportes" logo="http://s3.i3ns.net/portal/picon/2023-04/03e0ed6e4c2d09e631fe0605a370a872.png", FOX Sports 1
+http://iptvmedia.live:8080/F29062/7573b54a/54432
+#EXTINF:0 type="favorites" channelId="1970" name="Galavision" group="Deportes" logo="http://s3.i3ns.net/portal/picon/2021-06/a7abccfac5e61cd02194cb5171ee1c8a.png", Galavision
+http://iptvmedia.live:8080/F29062/7573b54a/71860
+#EXTINF:0 type="favorites" channelId="-1" name="TUDN XTRA 10" group="Deportes" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", TUDN XTRA 10
+http://iptvmedia.live:8080/F29062/7573b54a/298912
+#EXTINF:0 type="favorites" channelId="-1" name="TUDN XTRA 11" group="Deportes" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", TUDN XTRA 11
+http://iptvmedia.live:8080/F29062/7573b54a/196611
+#EXTINF:0 type="favorites" channelId="-1" name="TUDN XTRA 2" group="Deportes" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", TUDN XTRA 2
+http://iptvmedia.live:8080/F29062/7573b54a/298904
+#EXTINF:0 type="favorites" channelId="-1" name="TUDN XTRA 5" group="Deportes" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", TUDN XTRA 5
+http://iptvmedia.live:8080/F29062/7573b54a/298907
+#EXTINF:0 type="favorites" channelId="-1" name="TUDN XTRA 6" group="Deportes" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", TUDN XTRA 6
+http://iptvmedia.live:8080/F29062/7573b54a/298908
+#EXTINF:0 type="favorites" channelId="-1" name="TUDN XTRA 7" group="Deportes" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", TUDN XTRA 7
+http://iptvmedia.live:8080/F29062/7573b54a/298909
+#EXTINF:0 type="favorites" channelId="-1" name="TUDN XTRA 8" group="Deportes" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", TUDN XTRA 8
+http://iptvmedia.live:8080/F29062/7573b54a/298910
+#EXTINF:0 type="favorites" channelId="-1" name="TUDN XTRA 9" group="Deportes" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", TUDN XTRA 9
+http://iptvmedia.live:8080/F29062/7573b54a/298911
+#EXTINF:0 type="favorites" channelId="-1" name="Univision Cleveland Ohio WQHS DT" group="Deportes" logo="http://s3.i3ns.net/portal/picon/2022-08/abed5b68de9560a1f7a5f0598beb592a.png", Univision Cleveland Ohio WQHS DT
+http://iptvmedia.live:8080/F29062/7573b54a/172647
+#EXTINF:0 type="favorites" channelId="-1" name="Univision Dallas Texas KUVN TV" group="Deportes" logo="http://s3.i3ns.net/portal/picon/2022-04/88d69186e84dc4ddcdbce801fb124653.png", Univision Dallas Texas KUVN TV
+http://iptvmedia.live:8080/F29062/7573b54a/172641
+#EXTINF:0 type="favorites" channelId="-1" name="Univision Houston Texas KXLN TV" group="Deportes" logo="http://s3.i3ns.net/portal/picon/2023-06/ab5798b081efac7d7a4db2b7f7deefca.png", Univision Houston Texas KXLN TV
+http://iptvmedia.live:8080/F29062/7573b54a/299118
+#EXTINF:0 type="favorites" channelId="-1" name="Univision Los Angeles California KMEX TV" group="Deportes" logo="http://s3.i3ns.net/portal/picon/2022-09/db82b1ee37f49e8fbfcb28326657f8e9.png", Univision Los Angeles California KMEX TV
+http://iptvmedia.live:8080/F29062/7573b54a/172659
+#EXTINF:0 type="favorites" channelId="-1" name="Univision Phoenix Arizona KTVW TV" group="Deportes" logo="http://s3.i3ns.net/portal/picon/2022-09/68e5c116d54e4c827b8640b219e10fda.png", Univision Phoenix Arizona KTVW TV
+http://iptvmedia.live:8080/F29062/7573b54a/295844
+#EXTINF:0 type="favorites" channelId="3819" name="Univision Puerto Rico" group="Deportes" logo="http://s3.i3ns.net/portal/picon/2023-06/b88a562e482921801320519b8de9f234.png", Univision Puerto Rico
+http://iptvmedia.live:8080/F29062/7573b54a/172662
+#EXTINF:0 type="favorites" channelId="1328" name="FOX SPORTS" group="Deportes" logo="http://s3.i3ns.net/portal/picon/2022-02/c57450114a42c0d62ab0e938d40cf0b2.jpg", FOX SPORTS
+http://iptvmedia.live:8080/F29062/7573b54a/10925
+#EXTINF:0 type="favorites" channelId="3804" name="TUDN" group="Deportes" logo="http://s3.i3ns.net/portal/picon/2021-07/7b861cb6a74cbb1ff2b70855e9f56a24.png", TUDN
+http://iptvmedia.live:8080/F29062/7573b54a/31784
+#EXTINF:0 type="favorites" channelId="50" name="ANIMAL PLANET" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2021-07/fb90e5e84997d9ec15153c5670024ac5.png", ANIMAL PLANET
+http://iptvmedia.live:8080/F29062/7573b54a/2997
+#EXTINF:0 type="favorites" channelId="4586" name="Discovery Familia" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2023-04/d38b9e0b2c7f464da439e211bbd89642.png", Discovery Familia
+http://iptvmedia.live:8080/F29062/7573b54a/147657
+#EXTINF:0 type="favorites" channelId="-1" name="Discovery H&H" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2023-06/ff6bcb77307f08998262ff246c6b8c28.png", Discovery H&H
+http://iptvmedia.live:8080/F29062/7573b54a/5774
+#EXTINF:0 type="favorites" channelId="58" name="Discovery Science" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2021-07/cac3f9679cec1213b995216d207a4c44.png", Discovery Science
+http://iptvmedia.live:8080/F29062/7573b54a/3021
+#EXTINF:0 type="favorites" channelId="-1" name="Discovery Theater" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2021-07/d4cf41989812d63a1b5bc1e488ad447e.png", Discovery Theater
+http://iptvmedia.live:8080/F29062/7573b54a/3022
+#EXTINF:0 type="favorites" channelId="2840" name="Discovery Turbo" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2021-07/fb8e49ac28ac142eb2f1585fdb3f701e.png", Discovery Turbo
+http://iptvmedia.live:8080/F29062/7573b54a/3023
+#EXTINF:0 type="favorites" channelId="2839" name="Discovery World" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2021-05/10b90e0ce95b100cf9a6fbff0208bf4a.png", Discovery World
+http://iptvmedia.live:8080/F29062/7573b54a/8894
+#EXTINF:0 type="favorites" channelId="1201" name="History 2" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2021-07/8f312a5eaab500124303d9376e9144d7.png", History 2
+http://iptvmedia.live:8080/F29062/7573b54a/40831
+#EXTINF:0 type="favorites" channelId="59" name="Investigation Discovery" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2021-07/fa736a0d75e817b038e3df45c3c46e81.png", Investigation Discovery
+http://iptvmedia.live:8080/F29062/7573b54a/3063
+#EXTINF:0 type="favorites" channelId="1200" name="Lifetime" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2021-07/2bafbfd0d059dc1b372611d3465a8063.png", Lifetime
+http://iptvmedia.live:8080/F29062/7573b54a/3066
+#EXTINF:0 type="favorites" channelId="4597" name="NAT GEO Mundo" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2021-07/b6c489ce95abda2c6ed7c4fd52ec311e.png", NAT GEO Mundo
+http://iptvmedia.live:8080/F29062/7573b54a/267311
+#EXTINF:0 type="favorites" channelId="164" name="NAT GEO Wild" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2021-07/6571f8f4e51ded8b78e6028593640aee.png", NAT GEO Wild
+http://iptvmedia.live:8080/F29062/7573b54a/8745
+#EXTINF:0 type="favorites" channelId="3779" name="NBC Universo" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2022-05/b8d2a6a7d0c3588f50ccc190b3f6a40d.png", NBC Universo
+http://iptvmedia.live:8080/F29062/7573b54a/90120
+#EXTINF:0 type="favorites" channelId="383" name="Space" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2023-07/9c4519426178edb0561ef4d9a4f1aea2.jpg", Space
+http://iptvmedia.live:8080/F29062/7573b54a/299325
+#EXTINF:0 type="favorites" channelId="-1" name="Telemundo Atlantic City New Jersey WWSI TV" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2022-04/e1c87223c9e795955aaa4e9d0a11d4a7.png", Telemundo Atlantic City New Jersey WWSI TV
+http://iptvmedia.live:8080/F29062/7573b54a/3119
+#EXTINF:0 type="favorites" channelId="-1" name="Telemundo Boston" group="Documentary" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", Telemundo Boston
+http://iptvmedia.live:8080/F29062/7573b54a/298828
+#EXTINF:0 type="favorites" channelId="-1" name="Telemundo Corona California KVEA TV" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2022-04/987b8a7cae79e89c058ac6e93174280f.png", Telemundo Corona California KVEA TV
+http://iptvmedia.live:8080/F29062/7573b54a/172620
+#EXTINF:0 type="favorites" channelId="-1" name="Telemundo Denver Colorado KDEN TV" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2022-04/418088a71e20124df76370fec7ccdb5e.png", Telemundo Denver Colorado KDEN TV
+http://iptvmedia.live:8080/F29062/7573b54a/172614
+#EXTINF:0 type="favorites" channelId="-1" name="Telemundo Fort Myers Florida WWDT CD" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2022-08/ab8aca39ca1f115454c29b734e8281be.png", Telemundo Fort Myers Florida WWDT CD
+http://iptvmedia.live:8080/F29062/7573b54a/295847
+#EXTINF:0 type="favorites" channelId="-1" name="Telemundo Houston Texas KTMD TV" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2023-06/0c9658460ee0c781eadacbf444472762.png", Telemundo Houston Texas KTMD TV
+http://iptvmedia.live:8080/F29062/7573b54a/3116
+#EXTINF:0 type="favorites" channelId="-1" name="Telemundo Merced California KNSO TV" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2021-12/fd802691a1c1ebc09d795d5d85022786.png", Telemundo Merced California KNSO TV
+http://iptvmedia.live:8080/F29062/7573b54a/3115
+#EXTINF:0 type="favorites" channelId="-1" name="Telemundo Tucson Arizona KHRR TV" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2021-07/443faee72dfb56f73eabedd933fdb9d8.png", Telemundo Tucson Arizona KHRR TV
+http://iptvmedia.live:8080/F29062/7573b54a/3122
+#EXTINF:0 type="favorites" channelId="57" name="Discovery Channel" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2023-04/0a450252d347db19443aa8e04ae2d03d.png", Discovery Channel
+http://iptvmedia.live:8080/F29062/7573b54a/280388
+#EXTINF:0 type="favorites" channelId="-1" name="Discovery H&H" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2022-05/e1131d9d1ec94f7e88e34842801790d5.png", Discovery H&H
+http://iptvmedia.live:8080/F29062/7573b54a/9110
+#EXTINF:0 type="favorites" channelId="67" name="Discovery TLC" group= "Documentary" logo="http://s3.i3ns.net/portal/picon/2021-07/a4b4d1da27cf0705e9a72d4f7d392d3e.png", Discovery TLC
+http://iptvmedia.live:8080/F29062/7573b54a/9062
+#EXTINF:0 type="favorites" channelId="1455" name="History" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2021-07/e534aac3780d012e249532ed727cfa26.png", History
+http://iptvmedia.live:8080/F29062/7573b54a/9050
+#EXTINF:0 type="favorites" channelId="1201" name="History 2" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2023-04/e47706932f7babf4a9dfdb77d9d7043d.png", History 2
+http://iptvmedia.live:8080/F29062/7573b54a/273073
+#EXTINF:0 type="favorites" channelId="59" name="Investigation Discovery" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2021-07/8d572680055d9dd1912fd85f3a92d6ae.png", Investigation Discovery
+http://iptvmedia.live:8080/F29062/7573b54a/9056
+#EXTINF:0 type="favorites" channelId="1208" name="A&E" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2021-07/2ee103ec1d0a814e0e0b31cd2b03b35d.png", A&E
+http://iptvmedia.live:8080/F29062/7573b54a/7731
+#EXTINF:0 type="favorites" channelId="3417" name="Crime District" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2023-06/cae0add4c12c6a739cc706f2cf399130.png", Crime District
+http://iptvmedia.live:8080/F29062/7573b54a/298744
+#EXTINF:0 type="favorites" channelId="2839" name="Discovery World" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2021-07/a5b8aa33e79a329ab8f7b4c6a6f299cc.png", Discovery World
+http://iptvmedia.live:8080/F29062/7573b54a/1162
+#EXTINF:0 type="favorites" channelId="2826" name="Historia" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2021-07/342b26427208b2b782a0855d4570fe03.png", Historia
+http://iptvmedia.live:8080/F29062/7573b54a/1155
+#EXTINF:0 type="favorites" channelId="59" name="Investigation Discovery" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2021-07/a803d238410485830062214859e54978.png", Investigation Discovery
+http://iptvmedia.live:8080/F29062/7573b54a/27790
+#EXTINF:0 type="favorites" channelId="56" name="NAT GEO" group="Documentary" logo="http://s3.i3ns.net/portal/picon/2021-07/c9bd97d34c99d34b65b51948c6780f3b.png", NAT GEO
+http://iptvmedia.live:8080/F29062/7573b54a/1138
+#EXTINF:0 type="favorites" channelId="-1" name="Multimedios Guadalajara" group="Mexico" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", Multimedios Guadalajara
+http://iptvmedia.live:8080/F29062/7573b54a/298061
+#EXTINF:0 type="favorites" channelId="56" name="NAT GEO" group="Mexico" logo="http://s3.i3ns.net/portal/picon/2021-07/ec252b9c1be69a68011aa7653391d25c.png", NAT GEO
+http://iptvmedia.live:8080/F29062/7573b54a/8725
+#EXTINF:0 type="favorites" channelId="164" name="NAT GEO Wild" group="Mexico" logo="http://s3.i3ns.net/portal/picon/2022-03/c9a82319842abff334dec0a59ef9c3c1.png", NAT GEO Wild
+http://iptvmedia.live:8080/F29062/7573b54a/9072
+#EXTINF:0 type="favorites" channelId="1573" name="AXN" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/d70c71401b7d4da7d10e56ce4cdb85dd.png", AXN
+http://iptvmedia.live:8080/F29062/7573b54a/2998
+#EXTINF:0 type="favorites" channelId="64" name="Cinecanal" group="Movies" logo="http://s3.i3ns.net/portal/picon/2023-04/51394b224ae7b9c8e48906e55a4149cc.jpg", Cinecanal
+http://iptvmedia.live:8080/F29062/7573b54a/49452
+#EXTINF:0 type="favorites" channelId="1330" name="HBO" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/3df19bd34cea691ef713fa7c91186231.png", HBO
+http://iptvmedia.live:8080/F29062/7573b54a/3055
+#EXTINF:0 type="favorites" channelId="935" name="HBO 2" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/04924eab6449cf5f9481477a02538529.png", HBO 2
+http://iptvmedia.live:8080/F29062/7573b54a/3056
+#EXTINF:0 type="favorites" channelId="2584" name="HBO Family" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/bcb5ce199d5817bc957ff6dc510577d2.png", HBO Family
+http://iptvmedia.live:8080/F29062/7573b54a/3057
+#EXTINF:0 type="favorites" channelId="2725" name="HBO Mundi" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/da07317e9ea0404617a799765f151c31.png", HBO Mundi
+http://iptvmedia.live:8080/F29062/7573b54a/226015
+#EXTINF:0 type="favorites" channelId="361" name="HBO Pop" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/b59523ce06a7f337e3ec3644f2fbefbd.png", HBO Pop
+http://iptvmedia.live:8080/F29062/7573b54a/3069
+#EXTINF:0 type="favorites" channelId="2583" name="HBO Signature" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/565affd407eda3b8d7f7055d62a8461f.png", HBO Signature
+http://iptvmedia.live:8080/F29062/7573b54a/3059
+#EXTINF:0 type="favorites" channelId="2587" name="HBO Xtreme" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-12/ac32c2f03f910fd6359c90e0436cebef.png", HBO Xtreme
+http://iptvmedia.live:8080/F29062/7573b54a/148927
+#EXTINF:0 type="favorites" channelId="-1" name="HBO+" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/cf9a927cee9c2258c2a735e42a940ebc.png", HBO+
+http://iptvmedia.live:8080/F29062/7573b54a/3058
+#EXTINF:0 type="favorites" channelId="-1" name="Star Channel" group="Movies" logo="http://s3.i3ns.net/portal/picon/2023-04/9db2145ad118d169f5b425e50e3af268.png", Star Channel
+http://iptvmedia.live:8080/F29062/7573b54a/5785
+#EXTINF:0 type="favorites" channelId="2625" name="Studio Universal" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/eb8d1f010d2ba2c6bfb2578fcd38145f.png", Studio Universal
+http://iptvmedia.live:8080/F29062/7573b54a/3083
+#EXTINF:0 type="favorites" channelId="3228" name="TBS" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/f74e57eff971eb2eaaa6d01ad24a9dcf.png", TBS
+http://iptvmedia.live:8080/F29062/7573b54a/5803
+#EXTINF:0 type="favorites" channelId="1052" name="TNT" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/e1c784499290e4dbff27fcead96e314d.png", TNT
+http://iptvmedia.live:8080/F29062/7573b54a/3089
+#EXTINF:0 type="favorites" channelId="2686" name="TNT Series" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-12/f271d835769593137772c34a9853f739.png", TNT Series
+http://iptvmedia.live:8080/F29062/7573b54a/285147
+#EXTINF:0 type="favorites" channelId="4668" name="TNT Sports" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-12/1f392bb0f495628af2609a2def01a745.png", TNT Sports
+http://iptvmedia.live:8080/F29062/7573b54a/285164
+#EXTINF:0 type="favorites" channelId="2626" name="tru TV" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-12/71e1db48bca40a49540888ded096b9f0.png", tru TV
+http://iptvmedia.live:8080/F29062/7573b54a/284515
+#EXTINF:0 type="favorites" channelId="-1" name="UniMas" group="Movies" logo="http://s3.i3ns.net/portal/picon/2022-04/82efa03f500c5297dec84b49876c9248.png", UniMas
+http://iptvmedia.live:8080/F29062/7573b54a/147654
+#EXTINF:0 type="favorites" channelId="-1" name="Universal Cinema" group="Movies" logo="http://s3.i3ns.net/portal/picon/2023-04/9ce3ad4fe0deeba87d3a7583381436e4.png", Universal Cinema
+http://iptvmedia.live:8080/F29062/7573b54a/291225
+#EXTINF:0 type="favorites" channelId="-1" name="Universal Comedy" group="Movies" logo="http://s3.i3ns.net/portal/picon/2022-07/b6b1b534dd994d28aee685eb2f7d6347.png", Universal Comedy
+http://iptvmedia.live:8080/F29062/7573b54a/291224
+#EXTINF:0 type="favorites" channelId="-1" name="Universal Crime" group="Movies" logo="http://s3.i3ns.net/portal/picon/2023-04/0e6994985c32c700d463eadc0506161f.png", Universal Crime
+http://iptvmedia.live:8080/F29062/7573b54a/291222
+#EXTINF:0 type="favorites" channelId="-1" name="Universal Premiere" group="Movies" logo="http://s3.i3ns.net/portal/picon/2023-06/e73a219ec196c9bb4ce328f9b79be7f8.png", Universal Premiere
+http://iptvmedia.live:8080/F29062/7573b54a/298831
+#EXTINF:0 type="favorites" channelId="-1" name="Universal Reality" group="Movies" logo="http://s3.i3ns.net/portal/picon/2023-04/2e67a715926cb3b55108e791a1209c36.png", Universal Reality
+http://iptvmedia.live:8080/F29062/7573b54a/291217
+#EXTINF:0 type="favorites" channelId="187" name="Universal TV" group="Movies" logo="http://s3.i3ns.net/portal/picon/2022-03/6baa63b2a504eb00db7c0752bbce4272.png", Universal TV
+http://iptvmedia.live:8080/F29062/7573b54a/3036
+#EXTINF:0 type="favorites" channelId="2557" name="Warner TV" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/0ae6c8e6f33c73c453f6fbcbd6addfe4.png", Warner TV
+http://iptvmedia.live:8080/F29062/7573b54a/60006
+#EXTINF:0 type="favorites" channelId="2501" name="AMC" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/db7232f349d96b8ed9fae2fcacaaa50e.png", AMC
+http://iptvmedia.live:8080/F29062/7573b54a/9083
+#EXTINF:0 type="favorites" channelId="1573" name="AXN" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/2cca840e4f54f73b09a45657f2595507.png", AXN
+http://iptvmedia.live:8080/F29062/7573b54a/9138
+#EXTINF:0 type="favorites" channelId="64" name="Cinecanal" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-09/3c3bec641194b6d636508a46f57676bd.png", Cinecanal
+http://iptvmedia.live:8080/F29062/7573b54a/9128
+#EXTINF:0 type="favorites" channelId="283" name="CineLatino" group="Movies" logo="http://s3.i3ns.net/portal/picon/2023-04/bea7ce4cfd849c58422cd24a5588fa0e.png", CineLatino
+http://iptvmedia.live:8080/F29062/7573b54a/167062
+#EXTINF:0 type="favorites" channelId="1326" name="Cinemax" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/0625bacc899385658081029dbad58bea.png", Cinemax
+http://iptvmedia.live:8080/F29062/7573b54a/9080
+#EXTINF:0 type="favorites" channelId="-1" name="Discovery Theater" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/7d2ab682780c26660017668636579c6f.png", Discovery Theater
+http://iptvmedia.live:8080/F29062/7573b54a/9151
+#EXTINF:0 type="favorites" channelId="1303" name="FX" group="Movies" logo="http://s3.i3ns.net/portal/picon/2022-03/de3051d403186b770791395b44c9bd74.png", FX
+http://iptvmedia.live:8080/F29062/7573b54a/9105
+#EXTINF:0 type="favorites" channelId="3765" name="Golden Plus" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/a08cc6163e53b2569acec7eb03e05271.png", Golden Plus
+http://iptvmedia.live:8080/F29062/7573b54a/3051
+#EXTINF:0 type="favorites" channelId="1954" name="Las Estrellas" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/be65fcb335b137f9bbcf867472dafea9.png", Las Estrellas
+http://iptvmedia.live:8080/F29062/7573b54a/3005
+#EXTINF:0 type="favorites" channelId="188" name="Sony Channel" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-09/681d83765d2daf11d1138045141f9d5a.png", Sony Channel
+http://iptvmedia.live:8080/F29062/7573b54a/9115
+#EXTINF:0 type="favorites" channelId="-1" name="Star Channel" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-09/229b1dcec790fc438218d1dfeade4e45.png", Star Channel
+http://iptvmedia.live:8080/F29062/7573b54a/280386
+#EXTINF:0 type="favorites" channelId="2686" name="TNT Series" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-09/2d31036601046a0b55481cce7da5f81d.png", TNT Series
+http://iptvmedia.live:8080/F29062/7573b54a/9139
+#EXTINF:0 type="favorites" channelId="3806" name="Ultra Docu" group="Movies" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", Ultra Docu
+http://iptvmedia.live:8080/F29062/7573b54a/298069
+#EXTINF:0 type="favorites" channelId="3813" name="Ultra Familia" group="Movies" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", Ultra Familia
+http://iptvmedia.live:8080/F29062/7573b54a/167075
+#EXTINF:0 type="favorites" channelId="3815" name="Ultra Macho" group="Movies" logo="http://s3.i3ns.net/cs/etc/blank-icon.png", Ultra Macho
+http://iptvmedia.live:8080/F29062/7573b54a/167081
+#EXTINF:0 type="favorites" channelId="333" name="Golden" group="Mexico" logo="http://s3.i3ns.net/portal/picon/2021-09/9d4e2a9fe5bfba70bdbfdaec4166df16.png", Golden
+http://iptvmedia.live:8080/F29062/7573b54a/5793
+#EXTINF:0 type="favorites" channelId="2502" name="Golden Edge" group="Mexico" logo="http://s3.i3ns.net/portal/picon/2021-07/31627ce18ed4c1315831d876d8fb84d7.png", Golden Edge
+http://iptvmedia.live:8080/F29062/7573b54a/9076
+#EXTINF:0 type="favorites" channelId="1963" name="Golden Premier" group="Mexico" logo="http://s3.i3ns.net/portal/picon/2021-07/3259e1f443c20457eaa5e0c34852d23c.png", Golden Premier
+http://iptvmedia.live:8080/F29062/7573b54a/3052
+#EXTINF:0 type="favorites" channelId="2696" name="Milenio TV" group="Mexico" logo="http://s3.i3ns.net/portal/picon/2021-07/6a873a99ddc126b9074d6c7757d9b6fe.png", Milenio TV
+http://iptvmedia.live:8080/F29062/7573b54a/7067
+#EXTINF:0 type="favorites" channelId="-1" name="Multicinema" group="Mexico" logo="http://s3.i3ns.net/portal/picon/2022-05/eb8f3bee0d4d9659554484a5f1c6bd7b.jpg", Multicinema
+http://iptvmedia.live:8080/F29062/7573b54a/295813
+#EXTINF:0 type="favorites" channelId="4036" name="Paramount Network" group="Mexico" logo="http://s3.i3ns.net/portal/picon/2021-07/8fd6d2dff8d7a18160e0b6823dec6e54.jpg", Paramount Network
+http://iptvmedia.live:8080/F29062/7573b54a/9146
+#EXTINF:0 type="favorites" channelId="73" name="SYFY" group="Mexico" logo="http://s3.i3ns.net/portal/picon/2021-07/fcefd652cedee1c107acd5ff08569ebc.png", SYFY
+http://iptvmedia.live:8080/F29062/7573b54a/9081
+#EXTINF:0 type="favorites" channelId="1052" name="TNT" group="Mexico" logo="http://s3.i3ns.net/portal/picon/2021-12/12c052a1527c26e805fb1d9167eb9216.png", TNT
+http://iptvmedia.live:8080/F29062/7573b54a/9140
+#EXTINF:0 type="favorites" channelId="2557" name="Warner TV" group="Mexico" logo="http://s3.i3ns.net/portal/picon/2021-07/a82db4330339db82492965b7c1988734.png", Warner TV
+http://iptvmedia.live:8080/F29062/7573b54a/9142
+#EXTINF:0 type="favorites" channelId="2501" name="AMC" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/3e8da71a24605361a34cc39144648101.png", AMC
+http://iptvmedia.live:8080/F29062/7573b54a/1174
+#EXTINF:0 type="favorites" channelId="1573" name="AXN" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/4b866d9fef524fa206acd7951f852b25.png", AXN
+http://iptvmedia.live:8080/F29062/7573b54a/1172
+#EXTINF:0 type="favorites" channelId="2006" name="AXN Movies" group="Movies" logo="http://s3.i3ns.net/portal/picon/2023-06/b7223b50071211ab43dfaed242a7633f.png", AXN Movies
+http://iptvmedia.live:8080/F29062/7573b54a/298734
+#EXTINF:0 type="favorites" channelId="1574" name="AXN White" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/00b652e792492b5283d751cd0f17d618.png", AXN White
+http://iptvmedia.live:8080/F29062/7573b54a/1171
+#EXTINF:0 type="favorites" channelId="1667" name="Calle 13" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/eb37e4ab523860367af90cc91ccd0cc3.png", Calle 13
+http://iptvmedia.live:8080/F29062/7573b54a/1168
+#EXTINF:0 type="favorites" channelId="1688" name="Canal Hollywood" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/c73c2ebbf54973444442514e503aee41.png", Canal Hollywood
+http://iptvmedia.live:8080/F29062/7573b54a/1154
+#EXTINF:0 type="favorites" channelId="1190" name="Comedy Central" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/db6dade6b271dd39ebb5e9fedc50c9a6.png", Comedy Central
+http://iptvmedia.live:8080/F29062/7573b54a/1164
+#EXTINF:0 type="favorites" channelId="177" name="FOX" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/e327489a02855d7d55521d92c8874877.png", FOX
+http://iptvmedia.live:8080/F29062/7573b54a/1158
+#EXTINF:0 type="favorites" channelId="1330" name="HBO" group="Movies" logo="http://s3.i3ns.net/portal/picon/2022-02/976acf130ccf46f13c6e2ccce64d3a75.png", HBO
+http://iptvmedia.live:8080/F29062/7573b54a/285191
+#EXTINF:0 type="favorites" channelId="2583" name="HBO Signature" group="Movies" logo="http://s3.i3ns.net/portal/picon/2022-02/85e0cf48a4bbd14f52259279b78d8eb3.jpg", HBO Signature
+http://iptvmedia.live:8080/F29062/7573b54a/91989
+#EXTINF:0 type="favorites" channelId="1359" name="MOVISTAR Accion" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/a3f49074be2fa2a463d5ee69a1bd9407.png", MOVISTAR Accion
+http://iptvmedia.live:8080/F29062/7573b54a/1148
+#EXTINF:0 type="favorites" channelId="-1" name="MOVISTAR Cine Espanol" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/af80011ddf4907c81029f3e2763899e4.png", MOVISTAR Cine Espanol
+http://iptvmedia.live:8080/F29062/7573b54a/64788
+#EXTINF:0 type="favorites" channelId="-1" name="MOVISTAR Clasicos" group="Movies" logo="http://s3.i3ns.net/portal/picon/2022-02/6706f3336be6e8d27241cade06bedf5b.png", MOVISTAR Clasicos
+http://iptvmedia.live:8080/F29062/7573b54a/281773
+#EXTINF:0 type="favorites" channelId="1360" name="MOVISTAR Comedia" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/d016c40c3fd7ebe0a22e96e1a9fb3825.png", MOVISTAR Comedia
+http://iptvmedia.live:8080/F29062/7573b54a/1146
+#EXTINF:0 type="favorites" channelId="1361" name="MOVISTAR Drama" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/cf0b506006f12487ce7053315e6ea049.png", MOVISTAR Drama
+http://iptvmedia.live:8080/F29062/7573b54a/1144
+#EXTINF:0 type="favorites" channelId="1378" name="MOVISTAR Estrenos" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/50a1f5aeede4140f8b19d307c64024af.png", MOVISTAR Estrenos
+http://iptvmedia.live:8080/F29062/7573b54a/1143
+#EXTINF:0 type="favorites" channelId="-1" name="MOVISTAR Estrenos 2" group="Movies" logo="http://s3.i3ns.net/portal/picon/2022-04/edea034a4bb268a8f68c40f9584371ac.png", MOVISTAR Estrenos 2
+http://iptvmedia.live:8080/F29062/7573b54a/295135
+#EXTINF:0 type="favorites" channelId="2054" name="Sundance TV" group="Movies" logo="http://s3.i3ns.net/portal/picon/2021-07/97622498c703a53c3a8fb1e01a65a46e.png", Sundance TV
+http://iptvmedia.live:8080/F29062/7573b54a/2757
+#EXTINF:0 type="favorites" channelId="2557" name="Warner TV" group="Movies" logo="http://s3.i3ns.net/portal/picon/2023-06/3e0dba7e722fcc0aa97bde3c9a2189dd.png", Warner TV
+http://iptvmedia.live:8080/F29062/7573b54a/298814
+#EXTINF:0 type="favorites" channelId="1714" name="XTRM" group="Movies" logo="http://s3.i3ns.net/portal/picon/2022-06/9f0db7298ca7f2ea0900ffe65daadb68.png", XTRM
+http://iptvmedia.live:8080/F29062/7573b54a/11148
